@@ -29,7 +29,7 @@
 1. example
 
 ```sh
-  node index.mjs cvt cvt E:\error-test.log -t json -o E:\NHAWI\error-test.log
+  node index.mjs cvt E:\error-test.log -t json -o E:\NHAWI\error-test.log
 ```
 
 2. option

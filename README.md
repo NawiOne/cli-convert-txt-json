@@ -26,7 +26,7 @@
 3. Run the App
 ```
 - run locally
-```sh
+
 node index.mjs 
 ```
 

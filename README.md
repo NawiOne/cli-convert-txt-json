@@ -2,7 +2,7 @@
 
  <h1  align="center">CLI
  <br>
- <p>Convert file log file to plain text or json</p>
+ <p>Convert file to plaintext or json</p>
  </h1>
   
 ## Contents
@@ -35,7 +35,7 @@ node index.mjs
 1. example
 
 ```sh
-  conv E:\Hello.txt -t json -o E:\helo\Hello.json
+  cvt E:\error-test.log -t json -o E:\NHAWI\error-test.log
 ```
 
 2. option
@@ -44,5 +44,5 @@ node index.mjs
   -t <type> json | text
 ```
 ```sh
-  -o <new directory> E:\helo\Hello.txt
+  -o <new directory> E:\NHAWI\error-test.log
 ```

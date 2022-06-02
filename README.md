@@ -1,8 +1,8 @@
 <!-- @format -->
 
- <h1  align="center">Command Line Interface 
+ <h1  align="center">CLI
  <br>
- <p>for convert file format to json and plain text</p>
+ <p>Convert file log file to plain text or json</p>
  </h1>
   
 ## Contents
@@ -14,23 +14,20 @@
 1. Clone this Repository
 
 ```sh
-  https://github.com/wildandhya/cli-convert-file.git
+  https://github.com/NawiOne/cli-convert-txt-json.git
 ```
 
-2. Install NPM Packages
+2. Install Package
 
 ```sh
   npm install
 ```
 
 3. Run the App
-- run globally
-```sh
-npm install -g
 ```
 - run locally
 ```sh
-node index.js 
+node index.mjs 
 ```
 
 ## Usage

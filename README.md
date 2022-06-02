@@ -23,19 +23,13 @@
   npm install
 ```
 
-3. Run the App
-```
-- run locally
-
-node index.mjs 
-```
 
 ## Usage
 
 1. example
 
 ```sh
-  cvt E:\error-test.log -t json -o E:\NHAWI\error-test.log
+  node index.mjs cvt cvt E:\error-test.log -t json -o E:\NHAWI\error-test.log
 ```
 
 2. option
